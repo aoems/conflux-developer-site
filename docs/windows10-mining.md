@@ -1,4 +1,4 @@
-Conflux如何在 Windows 10下挖矿
+Conflux（0.3.2）如何在 Windows 10下挖矿
 ===
 
 * 前提条件：<br>  
@@ -55,7 +55,5 @@ cd conflux\run
 复制代码即可开始挖矿
 
 * 停止Conflux，即stop mining
-- 在运行 conflux 的 cmd 窗口按： ctrl +c , 或者
-- 直接关闭cmd窗口，或者
-- 打开任务管理器：详细信息--> 查找 conflux， 选择之后结束进程
+在运行 conflux 的 cmd 窗口按： ctrl +c , 或者直接关闭cmd窗口，或者打开任务管理器：详细信息--> 查找 conflux， 选择之后结束进程
 
