@@ -34,12 +34,11 @@ conflux <br>
 用文本编辑器打开 default.toml 文件, 找到以下 item 进行配置:
 
 * 设置: start_mining
-只是移除行首: #
-
+只是移除行首`#`
 
 * 设置: mining_author粘贴钱包地址
 
-说明: 1、移除行首的'#', 将我们的钱包地址前缀`0x`去掉，钱包的40位字符，填入`“”`中，替换原来的40个`a`字符
+说明: 1、移除行首的`#`, 将我们的钱包地址前缀`0x`去掉，钱包的40位字符，填入`“”`中，替换原来的40个`a`字符
 
 * 配置: public_address
 我们通过浏览器链接到https://ip138.com/ 将获取的`您的IP地址是`后的数字串,填充进去public_address后面“1.1.1.1”.
@@ -47,14 +46,15 @@ conflux <br>
 
 配置完成, 保存退出.
 
+---
 
-运行 conflux
+* 运行 conflux
 打开开始菜单, 搜索 cmd, 双击打开:
 cd conflux\run
 复制代码conflux --config default.toml 2>stderr.txt
 复制代码即可开始挖矿
 
-4. stop mining
+* 停止Conflux，即stop mining
 - 在运行 conflux 的 cmd 窗口按： ctrl +c , 或者
 - 直接关闭cmd窗口，或者
 - 打开任务管理器：详细信息--> 查找 conflux， 选择之后结束进程
