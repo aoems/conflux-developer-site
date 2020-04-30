@@ -16,14 +16,14 @@ Conflux（0.5.1 alpha2）如何在 Windows 10下挖矿
 将下载包解压至目录: conflux
 
 ⚠️目录结构为<br>
-conflux <br>
-└── run <br>
- >    ├── tg_config <br>
- >    ├── clear_state.sh <br>
- >    ├── conflux.exe <br>
- >    ├── default.toml <br>
- >    ├── log.yaml   <br>
- >    └── throttling.toml  <br>
+>conflux <br>
+>└── run <br>
+ >>    ├── tg_config <br>
+ >>    ├── clear_state.sh <br>
+ >>    ├── conflux.exe <br>
+ >>    ├── default.toml <br>
+ >>    ├── log.yaml   <br>
+ >>    └── throttling.toml  <br>
 
 
 --------
