@@ -2,7 +2,7 @@ Conflux（0.5.1 alpha2）如何在 Windows 10下挖矿
 ===
 
 * 前提条件：<br>  
-1. 我们已经 [拥有Conflux钱包地址](https://github.com/aoems/conflux-developer-site/edit/master/docs/Get_Conflux_webWallet.md); <br> 
+1. 我们已经 [拥有Conflux钱包地址](Get_Conflux_webWallet.md); <br> 
 2. 并且获取了最新版本的挖矿程序压缩包。当前测试网挖矿程序的最新版本是 `0.5.1 alpha2` .文件名：[conflux_win10_x64_v0.5.1-alpha-2.zip](https://github.com/Conflux-Chain/conflux-rust/releases/download/v0.5.1-alpha-2/conflux_win10_x64_v0.5.1-alpha-2.zip)
 <br> 
 
