@@ -1,4 +1,4 @@
-Conflux（0.3.2）如何在 Windows 10下挖矿
+Conflux（0.5.1 alpha2）如何在 Windows 10下挖矿
 ===
 
 * 前提条件：<br>  
